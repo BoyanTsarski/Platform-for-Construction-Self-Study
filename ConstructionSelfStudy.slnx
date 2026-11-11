@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConstructionSelfStudy.Data/ConstructionSelfStudy.Data.csproj" />
+  <Project Path="ConstructionSelfStudy.Services/ConstructionSelfStudy.Services.csproj" />
+  <Project Path="ConstructionSelfStudy.Tests/ConstructionSelfStudy.Tests.csproj" />
+  <Project Path="ConstructionSelfStudy.Web/ConstructionSelfStudy.Web.csproj" />
+</Solution>
